@@ -1,0 +1,82 @@
+
+  [
+    {
+      "_id": "65e5b2a8d52b018fef710f31",
+      "destination_name": "qwefawfaf",
+      "package_name": "dfawfawdf",
+      "package_description": "asdfsdfasdf",
+      "package_time": "123",
+      "location": "fasfawef",
+      "price": 1312331,
+      "remaining": 123,
+      "route": "sadfasdfasdf",
+      "package_cover": "IMG-1709552274786.jpg",
+      "package_plan": "asdfasfadfasfas",
+      "reviews_and_ratings": [
+        {
+          "package_id": "65e5b2a8d52b018fef710f31",
+          "review": "hcvmv,vkvkjvkjvkvkjvkjvkjv",
+          "ratings": 2,
+          "user_id": "65e5b208d52b018fef710f17",
+          "_id": "65e5eda6d52b018fef711168"
+        },
+        {
+          "package_id": "65e5b2a8d52b018fef710f31",
+          "review": "vkvkvkhhvkh",
+          "ratings": 2,
+          "user_id": "65e5b248d52b018fef710f20",
+          "_id": "65e5f66bd0831f119840931a"
+        }
+      ],
+      "user": {
+        "id": "65e5b248d52b018fef710f20",
+        "username": "root",
+        "fullname": "root",
+        "iat": 1709552212,
+        "exp": 1709638612
+      },
+      "createdAt": "2024-03-04T11:38:17.036Z",
+      "updatedAt": "2024-03-04T16:27:23.559Z",
+      "__v": 2
+    },
+    {
+      "_id": "65e5b2a8d52b018fef710f32",
+      "destination_name": "destination2",
+      "package_name": "package2",
+      "package_description": "description2",
+      "package_time": "456",
+      "location": "location2",
+      "price": 654321,
+      "remaining": 456,
+      "route": "route2",
+      "package_cover": "IMG-1709552274787.jpg",
+      "package_plan": "plan2",
+      "reviews_and_ratings": [
+        {
+          "package_id": "65e5b2a8d52b018fef710f32",
+          "review": "review2",
+          "ratings": 3,
+          "user_id": "65e5b248d52b018fef710f21",
+          "_id": "65e5f66bd0831f119840931b"
+        },
+        {
+          "package_id": "65e5b2a8d52b018fef710f32",
+          "review": "review3",
+          "ratings": 4,
+          "user_id": "65e5b248d52b018fef710f22",
+          "_id": "65e5f66bd0831f119840931c"
+        }
+      ],
+      "user": {
+        "id": "65e5b248d52b018fef710f22",
+        "username": "admin",
+        "fullname": "admin",
+        "iat": 1709552213,
+        "exp": 1709638613
+      },
+      "createdAt": "2024-03-04T11:38:17.036Z",
+      "updatedAt": "2024-03-04T16:27:23.559Z",
+      "__v": 3
+    }
+    
+  ]

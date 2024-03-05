@@ -1,0 +1,45 @@
+
+    [
+      {
+        "_id": "65e5b2a8d52b018fef710f31",
+        "destination_name": "qwefawfaf",
+        "package_name": "dfawfawdf",
+        "package_description": "asdfsdfasdf",
+        "package_time": "123",
+        "location": "fasfawef",
+        "price": 1312331,
+        "remaining": 123,
+        "route": "sadfasdfasdf",
+        "package_cover": "IMG-1709552274786.jpg",
+        "package_plan": "asdfasfadfasfas",
+        "reviews_and_ratings": [
+          {
+            "package_id": "65e5b2a8d52b018fef710f31",
+            "review": "hcvmv,vkvkjvkjvkvkjvkjvkjv",
+            "ratings": 2,
+            "user_id": "65e5b208d52b018fef710f17",
+            "_id": "65e5eda6d52b018fef711168"
+          },
+          {
+            "package_id": "65e5b2a8d52b018fef710f31",
+            "review": "vkvkvkhhvkh",
+            "ratings": 2,
+            "user_id": "65e5b248d52b018fef710f20",
+            "_id": "65e5f66bd0831f119840931a"
+          }
+        ],
+        "user": {
+          "id": "65e5b248d52b018fef710f20",
+          "username": "root",
+          "fullname": "root",
+          "iat": 1709552212,
+          "exp": 1709638612
+        },
+        "createdAt": "2024-03-04T11:38:17.036Z",
+        "updatedAt": "2024-03-04T16:27:23.559Z",
+        "__v": 2,
+        "formattedCreatedAt": "18 hours ago",
+        "isBookmarked": true
+      }
+    ]
+  

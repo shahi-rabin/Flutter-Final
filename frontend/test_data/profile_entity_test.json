@@ -1,0 +1,18 @@
+
+    [
+      {
+        "userType": "admin",
+        "username": "root",
+        "fullname": "root",
+        "email": "root@gmail.com",
+        "image": null,
+        "password": "$2a$10$7rR86QebL9zp6tv0ga45OONxpWU2euofuXs9qU6XBGsiIwZv4.37W",
+        "bio": "",
+        "bookingRequests": [],
+        "bookmarkedPackages": [
+          "65e5b2a8d52b018fef710f31"
+        ],
+        "id": "65e5b248d52b018fef710f20"
+      }
+    ]
+  
